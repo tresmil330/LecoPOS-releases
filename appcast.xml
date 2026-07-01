@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>LecoPOS</title>
+        <description>Actualizaciones de LecoPOS</description>
+        <language>es</language>
+        <item>
+            <title>Versión 1.0.1</title>
+            <description><![CDATA[<h2>LecoPOS 1.0.1</h2><p>Primera actualización de prueba del sistema de auto-actualización (firmada, vía GitHub Releases).</p>]]></description>
+            <pubDate>Wed, 01 Jul 2026 01:02:00 +0000</pubDate>
+            <enclosure url="https://github.com/tresmil330/LecoPOS-releases/releases/download/v1.0.1/lecopos-1.0.1+2-windows-setup.exe"
+                       sparkle:dsaSignature="MDwCHFePWipOxmr0QcYAaP0QTxahGWgx0H7d3tUyvwICHEsTi4Jm5SKg6l66FI7bPQjeFyceMaUqv81PGBs="
+                       sparkle:version="1.0.1"
+                       sparkle:os="windows"
+                       length="19701828"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
