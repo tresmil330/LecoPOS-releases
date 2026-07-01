@@ -10,7 +10,7 @@
             <pubDate>Wed, 01 Jul 2026 03:26:00 +0000</pubDate>
             <enclosure url="https://github.com/tresmil330/LecoPOS-releases/releases/download/v1.0.2/lecopos-1.0.2+3-windows-setup.exe"
                        sparkle:dsaSignature="MD0CHDVc3cmoWyKYcrkpllpM2iP2GSrvBIB5flFpmQoCHQCMGOmKa6m0GSlwXOLdH63NiFX/ocrVq7fWCf/X"
-                       sparkle:version="1.0.2"
+                       sparkle:version="1.0.2+3"
                        sparkle:os="windows"
                        length="19704031"
                        type="application/octet-stream" />
