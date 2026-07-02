@@ -5,14 +5,14 @@
         <description>Actualizaciones de LecoPOS</description>
         <language>es</language>
         <item>
-            <title>Versión 1.0.2</title>
-            <description><![CDATA[<h2>LecoPOS 1.0.2</h2><p>Corrige el feed de actualizaciones (raw.githubusercontent.com, sin redireccion) para evitar el error "Error al actualizar" tras el primer chequeo.</p>]]></description>
-            <pubDate>Wed, 01 Jul 2026 03:26:00 +0000</pubDate>
-            <enclosure url="https://github.com/tresmil330/LecoPOS-releases/releases/download/v1.0.2/lecopos-1.0.2+3-windows-setup.exe"
-                       sparkle:dsaSignature="MD0CHDVc3cmoWyKYcrkpllpM2iP2GSrvBIB5flFpmQoCHQCMGOmKa6m0GSlwXOLdH63NiFX/ocrVq7fWCf/X"
-                       sparkle:version="1.0.2+3"
+            <title>Versión 1.0.3</title>
+            <description><![CDATA[<h2>LecoPOS 1.0.3</h2><p>Gestión multi-tienda (adoptar/asignar/eliminar tiendas por terminal) y sincronización saliente local → Firestore.</p>]]></description>
+            <pubDate>Wed, 02 Jul 2026 17:47:00 +0000</pubDate>
+            <enclosure url="https://github.com/tresmil330/LecoPOS-releases/releases/download/v1.0.3/lecopos-1.0.3+4-windows-setup.exe"
+                       sparkle:dsaSignature="MDwCHDneIYGM00eZBX5J6++jHvG200ggm2SWSlAp4d8CHGu72NcwrKQNpGWZW/JdiYLICSHmSzZE9RXrKd8="
+                       sparkle:version="1.0.3+4"
                        sparkle:os="windows"
-                       length="19704031"
+                       length="19727484"
                        type="application/octet-stream" />
         </item>
     </channel>
